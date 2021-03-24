@@ -1,0 +1,13 @@
+{
+	"Name": "fun-bots",
+	"Authors": ["MajorVictory", "Bizzi","Joe-91"],
+	"Description": "AI-Bots for TDM",
+	"URL": "https://github.com/Joe91/fun-bots",
+	"Version": "1.7.0.8",
+	"HasWebUI": true,
+	"Tags": ["fun-bots"],
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": ">=1.0.8"
+	}
+}

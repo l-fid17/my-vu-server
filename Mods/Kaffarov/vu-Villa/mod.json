@@ -1,0 +1,13 @@
+{
+	"Name": "Villa",
+	"Description": "Villa in Conquest Large, US vs MEC.",
+	"Version": "1.0",
+	"Authors": "Keku645",
+	"HasVeniceEXT": true,
+	"HasWebUI": false,
+	"Dependencies": {},
+	"Tags": [
+        "villa",
+        "sp-map"
+	]
+}

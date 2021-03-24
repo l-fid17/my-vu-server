@@ -1,0 +1,4 @@
+XP2_Palace Domination0 1
+XP2_Office Domination0 1
+XP2_Factory Domination0 1
+XP2_Skybar Domination0 1

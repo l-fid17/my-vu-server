@@ -1,0 +1,16 @@
+{
+    "Name": "vu-mapvote",
+    "Authors": [
+        "N4gi0s"
+    ],
+    "Description": "Better MapVote",
+    "Version": "1.3",
+    "HasVeniceEXT": true,
+    "HasWebUI": true,
+    "Tags": [
+        "vu-mapvote"
+    ],
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}

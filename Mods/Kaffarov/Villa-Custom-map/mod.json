@@ -1,0 +1,13 @@
+{
+	"Name": "Villa Custom map",
+	"Authors": ["keku645"],
+	"Description": "Custom map for Villa",
+	"URL": "",
+	"Version": "0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"maploader-villa": "^1.0.0",
+        "veniceext": "^1.0.0"
+    }
+}
